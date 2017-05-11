@@ -8,3 +8,4 @@
 /captures
 .externalNativeBuild
 /Libs
+!/Install_OpenCV.sh
