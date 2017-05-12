@@ -3,7 +3,7 @@
 
 #Added 2 path definitions to support 20160825 additions
 # === Change "pathToProject" to correct path ===
-set(pathToProject /Users/xmuweili/Developments/AndroidCV/AndroidCV_Tutorial_1)
+set(pathToProject "${CMAKE_CURRENT_SOURCE_DIR}/../")
 set(pathToOpenCv ${pathToProject}/Libs/OpenCV-android-sdk)
 
 # Sets the minimum version of CMake required to build the native library.
