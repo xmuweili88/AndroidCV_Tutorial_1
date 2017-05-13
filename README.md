@@ -4,9 +4,23 @@
 
 <img src="https://raw.githubusercontent.com/xmuweili88/AndroidCV_Tutorial_1/master/ScreenCapture/device-2017-05-13-103903.png" width=480>
 
-## Step 2: Install OpenCV
+## Step 1: Install Andorid Studio
+
+Follow [this page](https://developer.android.com/studio/install.html) to setup the Android Studio on you developer machine.
+
+## Step 2: Clone the code base and Install OpenCV
+
+```bash
+git clone https://github.com/xmuweili88/AndroidCV_Tutorial_1.git
+cd AndroidCV_Tutorial_1
+sh Install_OpenCV.sh
+```
 
 ## Step 3: Build and Run!
+
+Connect your android device to you develop machine.  
+Make sure your device is [USB debugging enabled](https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/).  
+
 
 ## Issues you may have:
 
