@@ -1,4 +1,4 @@
-# AndroidCV Tutorial 1: Display Chessboard using Android Studio and OpenCV 3.2 Native JNI
+# AndroidCV Tutorial 1
 
 ## Demo App:
 
