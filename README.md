@@ -1,7 +1,7 @@
 # AndroidCV Tutorial 1: Display Chessboard using Android Studio and OpenCV 3.2 Native JNI
 
 ## Demo App:
-![](https://raw.githubusercontent.com/xmuweili88/AndroidCV_Tutorial_1/master/ScreenCapture/device-2017-05-13-103903.png =640x)
+![image](https://raw.githubusercontent.com/xmuweili88/AndroidCV_Tutorial_1/master/ScreenCapture/device-2017-05-13-103903.png = 640x)
 
 ## Step 2: Install OpenCV
 ## Step 3: Build and Run!
