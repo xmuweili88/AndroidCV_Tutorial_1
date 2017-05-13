@@ -6,7 +6,7 @@
 
 ## Step 1: Install Andorid Studio
 
-Follow [this page](https://developer.android.com/studio/install.html) to setup the Android Studio on you developer machine.
+Follow [this page](https://developer.android.com/studio/install.html) to setup the Android Studio on you developing machine.
 
 ## Step 2: Clone the code base and Install OpenCV
 
@@ -20,7 +20,11 @@ sh Install_OpenCV.sh
 
 Connect your android device to you develop machine.  
 Make sure your device is [USB debugging enabled](https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/).  
-
+On Android menu:
+- Build -> Make Project
+- Run -> Rnu 'app'
+- Select the connected android device
+- Check out result :)
 
 ## Issues you may have:
 
